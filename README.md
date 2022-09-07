@@ -4,7 +4,7 @@ I am Rohan. I started learning to code a few months ago.
 My current skills include: HTML, CSS, Javascript, Bootstrap, ReactJS & Git.
 And I am looking for a job as front-end developer.
 
-Some of the skills that I have Learned are:
+Few more things about me:
 
 - 🔭 I’m currently working on a personal website.
 - 🌱 I’m currently learning React native & python.
