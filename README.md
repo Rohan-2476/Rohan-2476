@@ -7,7 +7,7 @@ And I am looking for a job as front-end developer.
 Few more things about me:
 
 - 🔭 I’m currently working on a personal website.
-- 🌱 I’m currently learning React native & python.
+- 🌱 I’m currently learning Figma & python.
 - 👯 I’m looking to collaborate on any projects that will enhance my skills.
 - 🤔 I’m looking for help with Algorithms & Data Structures 
 - 💬 Ask me about: Anything!
