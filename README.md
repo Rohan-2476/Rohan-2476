@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-I am Rohan. I started learning to code a few months ago. 
-My current skills include: HTML, CSS, Javascript, Bootstrap, ReactJS, React-Bootstrap & Git.
-And I am looking for a job as Front-End Developer.
+I am Rohan. I started learning & investing my time coding a few months back, and it feels amazing. <br> <br>
+
+My current skills include: <br> 
+=> <strong> HTML, CSS, Javascript, ReactJS, NodeJS. </strong> <br> 
+=> <strong> Bootstrap, React-Bootstrap, Material-UI, Tailwind CSS, Sass. </strong> <br> 
+=> <strong> MySql, MongoDB, Git, Github. </strong> <br>
+
+I am looking for a job as Front-End Developer encouraging me to become a Fullstack Developer!
 
 Few more things about me:
 
@@ -11,5 +16,8 @@ Few more things about me:
 - 👯 I’m looking to collaborate on any projects that will enhance my skills.
 - 🤔 I’m looking for help with Algorithms & Data Structures. 
 - 💬 Ask me about: Anything!
-- 📫 How to reach me: rohan.5487.rv@gmail.com, insta: @theviciousblunt
-- ⚡ Fun fact: Chai is overated so I drink water!
+- 📫 How to reach me: <br>
+    Mail: {rsuradkar123@gmail.com}; <br> 
+    LinkedIn: {linkedin.com/in/RohanSuradkar250796}; <br> 
+    Insta: {@theviciousblunt}; <br> 
+- ⚡ Fun fact: Chai is overated so I drink water! Stay Hydrated!
