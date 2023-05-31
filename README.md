@@ -2,7 +2,7 @@
 
 I am Rohan! <br> <br>
 
-I'm a MERN Stack developer, looking for an opportunity to utilize my skills and grow. In React language, I'm a Declarative Developer! <br> <br>
+I'm a MERN Stack developer, looking for a job opportunity to utilize and enhance my skills at its best. In React language, I'm a Declarative Developer! <br> <br>
 
 Skills: <br> 
 => <strong> HTML, CSS, Javascript, ReactJS, NodeJS, ExpressJS. </strong> <br> 
@@ -19,6 +19,7 @@ Few more Docs about me:
 - 👯 I’m looking to collaborate on any projects that will enhance my skills.
 - 🤔 I’m looking for help with Algorithms & Data Structures. 
 - 💬 Ask me about: Anything!
+- - I like to keep my working tree clean!
 - 📫 How to reach me: <br>
     Mail: {rsuradkar123@gmail.com}; <br> 
     LinkedIn: {linkedin.com/in/RohanSuradkar250796}; <br> 
